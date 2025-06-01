@@ -22,3 +22,8 @@ fprintf(arquivo, "Nome: %s\n", carta1.nome);
 fprintf(arquivo, "População:%d\n", carta1.populacao);
 fprintf(arquivo, "PIB: %.2f bilhões\n", carta1.pib;
 fprintf(arquivo, "Pontos Turísticos: %d\n\n", carta1.pontosTuristicos);
+
+fprintf(arquivo, "---- Carta 2 ----\n");
+fprintf(arquivo, "Nome: %s\n", carta2.nome);
+fprintf(arquivo, "População: %d\n", carta2.populacao);
+fprintf(arquivo, "Pontos Turistico: %d\n", carta 2.pontosTuristicos);
